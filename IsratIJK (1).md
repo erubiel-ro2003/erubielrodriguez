@@ -1,48 +1,17 @@
-<h2 align="center">👋 ¡Hola! Soy <b>Juan Pérez</b> </h2>
-<h3 align="center">🚀 Estudiante entusiasta de tecnología y desarrollo web.</h3>
-
-<p align="center">
-  <a href="https://github.com/TuUsuario" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/TuUsuario?label=Seguidores&style=for-the-badge&color=blueviolet">
-  </a>
-  <a href="https://github.com/TuUsuario" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
-</p>
-
----
-
-<details align="center">
-  <summary>🏆 Trofeos de GitHub</summary>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=gruvbox"/>
-    </a>
-  </p>
-</details>
-
----
-
-<details>
-  <summary>📊 Estadísticas de mi GitHub</summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&count_private=true&theme=radical" width="350" height="250">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical" width="350" height="250">
-  </div>
-</details>
+<h2 align="center">👋 ¡Hola! Soy <b>Franco Cajina</b> </h2>
+<h3 align="center">🚀 Estudiante entusiasta de programacion en la Universidad Nacional de Ingenieria (UNI)</h3>
 
 ---
 
 ### 💫 Sobre mí  
 
-- 🎯 Actualmente trabajando en proyectos personales y aprendiendo desarrollo web.  
-- 🎨 **Hobbies:** ver películas, series, aprender cosas nuevas y mejorar mis habilidades digitales.  
+- 🎯 Me gusta trabajar en proyectos personales y aprendiendo desarrollo web. Soy autodidacta en proceso  
+- 🎨 **Hobbies:** ver películas, series, aprender cosas nuevas y mejorar mis habilidades blandas y tecnicas
 - 💡 **Me definen:**  
   - 🧩 Resolución de problemas  
   - 💻 Curiosidad tecnológica  
   - 🖌️ Diseño web básico  
-  - 🧠 Pensamiento estratégico  
+  - 🧠 Pensamiento estratégico
 
 ---
 
@@ -50,50 +19,20 @@
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
+[![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/microsoft-365/word)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/microsoft-365/powerpoint)
+[![Windows](https://img.shields.io/badge/Windows_10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 </div>
-
----
-
-<h2 align="center">💻 Mi Equipo de Trabajo</h2>
-
-<div align="center">
-
-![Laptop](https://img.shields.io/badge/Laptop-ASUS-blue?style=for-the-badge&logo=asus&logoColor=white)  
-![CPU](https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-</div>
-
----
 
 <h3 align="center">⚡ Dato curioso</h3>
-<p align="center">✨ Me encanta aprender, crear y dormir (a veces en ese orden 😄) ✨</p>
-
----
-
-<h2 align="center">📬 ¡Conecta conmigo!</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/TuPerfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/TuUsuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:tucorreo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
+<p align="center">✨ Me encanta aprender, crear, jugar y dormir. Me gusta explorar nuevas areas utiles para mi dia a dia ✨</p>
 
 <p align="center">🌟 <b>¡Dale una estrella ⭐ a mis repos si te gustan!</b> 🌟</p>
 
@@ -101,17 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical" alt="GitHub Streak"/>
 </p>
 
----
-
-<h2 align="center">📈 Tiempo de programación</h2>
-
-<div align="center">
-  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=TuUsuario&layout=compact&theme=radical)
-
-</div>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40">
@@ -124,4 +52,4 @@
 ---
 
 📅 **Última actualización:** _04 de noviembre de 2025_  
-✍️ **Hecho con ❤️ por [Juan Pérez](https://github.com/TuUsuario)_
+✍️ **Hecho por [Franco Cajina](https://github.com/fcajina12)_
