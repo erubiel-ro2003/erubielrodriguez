@@ -5,15 +5,32 @@
 
 ### 💫 Sobre mí  
 
-- 🎯 Me gusta trabajar en proyectos personales y aprendiendo desarrollo web. Soy autodidacta en proceso  
-- 🎨 **Hobbies:** ver películas, series, aprender cosas nuevas y mejorar mis habilidades blandas y tecnicas
+- 🎯 Me gusta trabajar en proyectos personales y seguir aprendiendo sobre desarrollo web. Soy autodidacta en proceso y disfruto descubrir nuevas herramientas que faciliten el trabajo creativo.  
+- 📚 Siempre estoy explorando algo nuevo: a veces diseño interfaces, otras veces organizo ideas o planifico proyectos que me gustaría llevar a cabo.  
+- ⚙️ Me interesa cómo la tecnología puede hacer más fácil la vida cotidiana, especialmente en el ámbito educativo y organizacional.  
+- 🌱 Actualmente me enfoco en fortalecer mis bases en HTML, CSS y Strapi, y comprender mejor cómo conectar el backend con el frontend.  
+
+- 🎨 **Hobbies:** ver películas, series, aprender cosas nuevas y mejorar mis habilidades blandas y técnicas.  
 - 💡 **Me definen:**  
   - 🧩 Resolución de problemas  
   - 💻 Curiosidad tecnológica  
   - 🖌️ Diseño web básico  
-  - 🧠 Pensamiento estratégico
+  - 🧠 Pensamiento estratégico  
+  - 🤝 Colaboración y trabajo en equipo  
+  - 🗣️ Comunicación clara y adaptabilidad  
 
 ---
+
+### 💬 Un poco más sobre mí  
+
+- ☕ Prefiero las noches tranquilas frente a la computadora, con buena música de fondo.  
+- ✍️ Me gusta organizar ideas visualmente, ya sea en papel o usando herramientas digitales como Canva o Notion.  
+- 💭 Disfruto aprender a mi ritmo, sin presiones, y siempre busco que cada proyecto tenga algo de mi estilo personal.  
+- 🎯 Mi meta actual es construir una base sólida en desarrollo web y, con el tiempo, crear proyectos visualmente atractivos y funcionales.  
+- 💬 Frase que me inspira: *“No se trata de hacerlo perfecto, sino de hacerlo posible.”*  
+
+---
+
 
 <h2 align="center">⚙️ Tecnologías y Herramientas</h2>
 
@@ -35,15 +52,6 @@
 <p align="center">✨ Me encanta aprender, crear, jugar y dormir. Me gusta explorar nuevas areas utiles para mi dia a dia ✨</p>
 
 <p align="center">🌟 <b>¡Dale una estrella ⭐ a mis repos si te gustan!</b> 🌟</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical" alt="GitHub Streak"/>
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40">
-</p>
 
 <p align="center">
   💬 “El conocimiento no se acumula, se comparte.”  
