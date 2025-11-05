@@ -1,102 +1,113 @@
-## Hey 👋, I'm [Manoj Boddu!](http://manumanoj.me/)
+## 👋 ¡Hola! Soy [Juan Pérez](https://tuperfil.dev)
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/tuperfil/)](https://www.linkedin.com/in/tuperfil/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tucorreo@gmail.com)](mailto:tucorreo@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portafolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tuperfil.dev)](https://tuperfil.dev)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tuperfil)](https://twitter.com/tuperfil)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/tuperfil/)](https://instagram.com/tuperfil)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/tuperfil)](https://facebook.com/tuperfil)
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:manumanoj0010@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/m.a.n.u.m.a.n.o.j) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)
+---
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/manumanoj0010) ![GitHub User's stars](https://img.shields.io/github/stars/manumanoj0010)
+### ¡Qué gusto verte aquí! 👀  
+<img src="https://komarev.com/ghpvc/?username=tuperfil&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas al perfil" /> ![GitHub followers](https://img.shields.io/github/followers/tuperfil) ![GitHub User's stars](https://img.shields.io/github/stars/tuperfil)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and Computer Vision 👀.
+---
 
-### More about me:
+Soy estudiante de último año de Ingeniería en Computación 💻.  
+Me apasiona aprender, experimentar con nuevas tecnologías y crear cosas que tengan un impacto real 🌍.  
+Actualmente me enfoco en **desarrollo web** y **tecnologías backend**, pero también disfruto explorar áreas como diseño, automatización y aprendizaje autodidacta.  
 
-- 👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in web development 🕸️
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-- 🌐 Visit my [porfolio website](https://manumanoj.me) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf).
+---
 
-<h2> 🛠 &nbsp;My Tech Stack</h2>
+### 💫 Sobre mí  
 
- <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="30" height="30"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/javascript.png" alt="javascript" width="30" height="30"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank"> <img src="images/php.png" alt="php" width="30" height="30"/> </a> <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>  <a href="https://flutter.dev" target="_blank"> <img src="images/flutter.png" alt="flutter" width="30" height="30"/></a>  <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank"> <img src="images/postgresql.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="30" height="30"/> </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="images/unity.png" alt="unity" width="30" height="30"/> </a> 
+- 🎯 Me gusta trabajar en proyectos personales y seguir aprendiendo sobre desarrollo web.  
+- 🌱 Soy autodidacta en proceso y disfruto investigar, leer documentación y descubrir herramientas nuevas.  
+- 🤝 Abierto a colaborar en proyectos de desarrollo web, diseño o automatización.  
+- 🧠 Interesado en cómo la tecnología puede ayudar a resolver problemas cotidianos y mejorar la productividad.  
+- 🌐 Puedes visitar mi [portafolio](https://tuperfil.dev) o descargar mi [currículum](https://tuperfil.dev/CV.pdf).  
 
-<details>	
-  <summary><b>Programming Languages</b></summary>
- <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="30" height="30"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/javascript.png" alt="javascript" width="30" height="30"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank"> <img src="images/php.png" alt="php" width="30" height="30"/> </a> 
-</details>
+---
 
-<details>	
-  <summary><b>Frontend Development</b></summary>
-  <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  
-</details>
+### 💬 Un poco más sobre mí  
 
-<details>	
-  <summary><b>Mobile App Developement (beginner)</b></summary>
-  <a href="https://flutter.dev" target="_blank"> <img src="images/flutter.png" alt="flutter" width="30" height="30"/></a><i></i>
-</details>
+- ☕ Prefiero trabajar por las noches, cuando todo está en silencio y puedo concentrarme mejor.  
+- ✍️ Me gusta planificar mis ideas y proyectos usando herramientas visuales como Notion o Figma.  
+- 🎨 Disfruto el diseño simple, la organización y los pequeños detalles que hacen la diferencia.  
+- 💭 Creo que aprender algo nuevo cada día, por pequeño que sea, es una victoria.  
+- ✨ Frase favorita: *“Si puedes imaginarlo, puedes crearlo.”*  
 
-<details>	
-  <summary><b>Backend Developement</b></summary>
-  <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>
-</details>
+---
 
-<details>	
-  <summary><b>Databases</b></summary>
- <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank"> <img src="images/postgresql.png" alt="postgresql" width="40" height="40"/> </a>
-</details>
-
-<details>	
-  <summary><b>Frameworks</b></summary>
-   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="30" height="30"/> </a> 
-</details>
-
-<details>	
-  <summary><b>Backend as a Service (BaaS) </b></summary>
-   <a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a>
-  </details>
-
-<details>	
-  <summary><b>Others</b></summary>
-  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="images/unity.png" alt="unity" width="30" height="30"/> </a> 
-</details>
-
-<h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
-<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
-</details>
-
-<details>
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manumanoj0010&" alt="manumanoj0010" /></p>
-</details>
-
-<details>
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manumanoj0010&margin-w=5" alt="manumanoj0010" /></a> </p>
-</details>
-
-<details>
- <summary><b>💥 Github Activity</b></summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Sahiti-Dev/Website/pull/4) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-2. 🎉 Merged PR [#2](https://github.com/Sahiti-Dev/Website/pull/2) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-3. ❌ Closed PR [#1](https://github.com/Sahiti-Dev/Website/pull/1) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. 🎉 Merged PR [#2](https://github.com/manumanoj0010/Real-EState-Website/pull/2) in [manumanoj0010/Real-EState-Website](https://github.com/manumanoj0010/Real-EState-Website)
-5. 🎉 Merged PR [#3](https://github.com/manumanoj0010/Javascript-Applications/pull/3) in [manumanoj0010/Javascript-Applications](https://github.com/manumanoj0010/Javascript-Applications)
-<!--END_SECTION:activity-->
+## 🛠️ Tecnologías y Herramientas  
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 </div>
 
-------
-Credits: [manumanoj0010](https://github.com/manumanoj0010)
+---
 
-Last Edited on: 15/01/2021
+<details>
+  <summary><b>📚 Lenguajes de Programación</b></summary>
+  Python • JavaScript • TypeScript • PHP
+</details>
+
+<details>
+  <summary><b>🎨 Frontend</b></summary>
+  HTML • CSS • Angular • Bootstrap
+</details>
+
+<details>
+  <summary><b>⚙️ Backend</b></summary>
+  Node.js • Flask • Django
+</details>
+
+<details>
+  <summary><b>🗄️ Bases de Datos</b></summary>
+  MySQL • PostgreSQL
+</details>
+
+<details>
+  <summary><b>🔥 Backend como Servicio (BaaS)</b></summary>
+  Firebase • Heroku
+</details>
+
+<details>
+  <summary><b>🧩 Otros</b></summary>
+  Git • Linux • OpenCV • Unity
+</details>
+
+---
+
+<div align="center">
+
+### ❤️ ¡Apoya mi trabajo dando una estrella ⭐ a mis repositorios favoritos!
+
+</div>
+
+---
+
+📅 **Última actualización:** _04 de noviembre de 2025_  
+✍️ **Hecho con dedicación por [Juan Pérez](https://github.com/tuperfil)_
