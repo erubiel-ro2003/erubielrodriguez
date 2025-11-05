@@ -96,4 +96,4 @@ Mi objetivo es seguir creciendo como profesional, combinando **tecnología, inno
 ---
 
 📅 **Última actualización:** _04 de noviembre de 2025_  
-✍️ **Hecho con dedicación por [Juan Pérez](https://github.com/tuperfil)_
+✍️ **Hecho con dedicación por [Erubiel Rodriguez](https://github.com/erubiel-ro2003)_
